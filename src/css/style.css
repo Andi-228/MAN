@@ -271,8 +271,8 @@ a.rollover {
  .search-wrapper {
   position: absolute;
   transform: translate(-50%, -50%);
-  top:50px;
-  left:1500px;
+  top: 20%;
+  left:90%;
 }
 .search-wrapper.active {}
 
