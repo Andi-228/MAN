@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    overflow: hidden;
+  }
+  
+  .description {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: rgba(0,0,0, 0.5);
+    text-align: right;
+    font-family: arial;
+  }
+  .description a {
+    color: #9ff;
+  }
+  
+  canvas {
+    cursor: crosshair;
+  }
