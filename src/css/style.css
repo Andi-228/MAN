@@ -35,12 +35,20 @@ h1 {
 
 .text {
 	text-transform: uppercase;
-	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	background: linear-gradient(to right, #30CFD0 0%, #4a484c 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
 
-h2.funny-title{border-top:5px solid #E0DBDE;border-bottom:5px solid #E0DBDE;font-size:70px;text-align:center;margin-top:40px;margin-bottom:5px;text-transform:uppercase;font-family:'Russo One',sans-serif;font-weight:900;letter-spacing:8px}
+h2.funny-title{border-top:5px solid #585457;border-bottom:5px solid #6b6468;
+  font-size:70px;
+  text-align:center;
+  margin-top:40px;
+  margin-bottom:5px;
+  text-transform:uppercase;
+  font-family:'Russo One',sans-serif;
+  font-weight:900;
+  letter-spacing:8px}
 @-webkit-keyframes move-background {
 0%{background-position:-300px 0}
 100%{background-position:300px -300px}
